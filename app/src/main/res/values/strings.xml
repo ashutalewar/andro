@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloMe</string>
+    <string name="title_activity_browser">browserActivity</string>
+</resources>
